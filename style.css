@@ -2,7 +2,8 @@
 	font-family: 'Arial';
 }
 body {
-	background:lightblue;
+	min-height:calc(100vh - 20px);
+	background:radial-gradient(white,lightblue);
 	color:darkblue;
 /* #aec7fa	*/
 }
@@ -17,15 +18,20 @@ h1 {
 	font-size:30px;
 	margin:50px 0;
 }
+img {
+	width:200px!important;
+	margin-top:150px;
+}
 .container {
 	text-align:center;
 }
 .btn {
+	display: inline-block;
 	padding:10px 20px;
 	border-radius:25px;
 	background:blue;
 	color:white;
-	width:200px;
+	width:200px!important;
 	margin:20px 0;
 	text-decoration:none;
 	border:none;
@@ -33,5 +39,5 @@ h1 {
 	cursor:pointer;
 }
 .green {
-	background:lightgreen;
+	background:green;
 }

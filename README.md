@@ -2,6 +2,8 @@
 
 O BebaÁgua é um aplicativo simples e prático para receber lembretes de hidratação ao longo do dia. Ele permite configurar intervalos de tempo para receber alertas de que é hora de beber água.
 
+O aplicativo pode ser acessado através do link https://danielfabbri.com/bebaagua
+
 ## Pré-requisitos
 
 Antes de começar, certifique-se de ter o XAMPP instalado no seu computador. O XAMPP é uma ferramenta que fornece um ambiente de servidor local, incluindo o Apache (servidor web), MySQL (banco de dados) e PHP (linguagem de script).

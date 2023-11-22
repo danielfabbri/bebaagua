@@ -8,8 +8,7 @@
 </head>
 <body>
 	<div class="container">
-		<p>Projeto</p>
-		<h1>BEBA ÁGUA</h1>
+		<img src="src/logo.png">
 		<?php if (!isset($_POST['tempo'])) { ?>
 			<form method="POST" action="">
 				<h3><b>Ativar alerta</b></h3>
@@ -20,7 +19,6 @@
 		<?php } else { ?>
 			<h2>Alerta ligado!</h2>
 			<h4>Alerta de <?php echo $_POST['tempo']; ?>h em <?php echo $_POST['tempo']; ?>h</h4>
-			<a href="" class="btn green">Bebi</a>
 			<a href="" class="btn">Reiniciar</a>
 			<script src="index.js"></script>
 		<?php } ?>
