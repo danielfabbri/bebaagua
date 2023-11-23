@@ -2,7 +2,12 @@
 
 O BebaÁgua é um aplicativo simples e prático para receber lembretes de hidratação ao longo do dia. Ele permite configurar intervalos de tempo para receber alertas de que é hora de beber água.
 
-O aplicativo pode ser acessado através do link https://danielfabbri.com/bebaagua
+O documento do projeto se encontra no link https://docs.google.com/document/d/1Fp3_pR_wEb8JiydY-C0taH953kR4_rLvZtPhckHkSi8/edit?usp=sharing
+O protótipo funcional pode ser visualizado no link https://www.figma.com/proto/C2UeOqym8aMlxd76ntpjFy/Untitled?type=design&node-id=2-10&t=FwF8MpgUckhgfFah-1&scaling=scale-down&page-id=0%3A1&mode=design
+O aplicativo pode ser testado no link https://danielfabbri.com/bebaagua
+O código se encontra no link https://github.com/danielfabbri/bebaagua
+O vídeo de apresentação se encontra no link https://www.canva.com/design/DAF0_iWYCM8/Rkv7vjvv6YUT3s-YS5WHQA/watch?utm_content=DAF0_iWYCM8&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel
+
 
 ## Pré-requisitos
 
@@ -31,9 +36,9 @@ Substitua `SUA_PORTA_CONFIGURADA` pela porta configurada no seu ambiente local d
 
 Este projeto é de código aberto e as contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests ou abrir issues para sugestões e melhorias.
 
-## Autores
+## Autoria
 
-Este aplicativo BebaÁgua foi desenvolvido por Daniel Martinelli Fabbri.
+Este aplicativo BebaÁgua foi desenvolvido por Daniel Martinelli Fabbri (Grupo Extra 3) durante o curso do SENAC de Análise e desenvolvimento de sistemas, na aula Projeto Integrador: Desenvolvimento de sistemas orientados a dispositivos móveis e baseados na Web.
 
 ---
 
