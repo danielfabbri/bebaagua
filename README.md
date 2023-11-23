@@ -2,11 +2,20 @@
 
 O BebaÁgua é um aplicativo simples e prático para receber lembretes de hidratação ao longo do dia. Ele permite configurar intervalos de tempo para receber alertas de que é hora de beber água.
 
-O documento do projeto se encontra no link https://docs.google.com/document/d/1Fp3_pR_wEb8JiydY-C0taH953kR4_rLvZtPhckHkSi8/edit?usp=sharing
-O protótipo funcional pode ser visualizado no link https://www.figma.com/proto/C2UeOqym8aMlxd76ntpjFy/Untitled?type=design&node-id=2-10&t=FwF8MpgUckhgfFah-1&scaling=scale-down&page-id=0%3A1&mode=design
-O aplicativo pode ser testado no link https://danielfabbri.com/bebaagua
-O código se encontra no link https://github.com/danielfabbri/bebaagua
-O vídeo de apresentação se encontra no link https://www.canva.com/design/DAF0_iWYCM8/Rkv7vjvv6YUT3s-YS5WHQA/watch?utm_content=DAF0_iWYCM8&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel
+O documento do projeto se encontra no link:
+https://docs.google.com/document/d/1Fp3_pR_wEb8JiydY-C0taH953kR4_rLvZtPhckHkSi8/edit?usp=sharing
+
+O protótipo funcional pode ser visualizado no link:
+https://www.figma.com/proto/C2UeOqym8aMlxd76ntpjFy/Untitled?type=design&node-id=2-10&t=FwF8MpgUckhgfFah-1&scaling=scale-down&page-id=0%3A1&mode=design
+
+O aplicativo pode ser testado no link:
+https://danielfabbri.com/bebaagua
+
+O código se encontra no link:
+https://github.com/danielfabbri/bebaagua
+
+O vídeo de apresentação se encontra no link:
+https://www.canva.com/design/DAF0_iWYCM8/Rkv7vjvv6YUT3s-YS5WHQA/watch?utm_content=DAF0_iWYCM8&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel
 
 
 ## Pré-requisitos
